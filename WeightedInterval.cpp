@@ -1,4 +1,4 @@
-. Write a program to solve the weighted interval scheduling problem.
+// Write a program to solve the weighted interval scheduling problem.
 Source code
 #include <iostream>
 #include <algorithm>
